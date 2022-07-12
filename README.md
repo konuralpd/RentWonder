@@ -1,5 +1,5 @@
 # RentWonder
-SwiftUI tasarım yeteneklerimi geliştirmek için yaptığım statik bir araba kiralama uygulaması.
+SwiftUI tasarım yeteneklerimi geliştirmek için yaptığım statik bir araba kiralama uygulamas önyüzü.
 
 
 
